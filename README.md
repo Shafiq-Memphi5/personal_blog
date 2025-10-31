@@ -1,4 +1,4 @@
-<p align="center"><a href="https://roadmap.sh/projects/personal-blog" target="_blank">Personal Blog Web App </a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://logos-world.net/blogger-logo/" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
